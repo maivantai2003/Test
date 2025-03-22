@@ -1,0 +1,6 @@
+@ExTwo_HostAddress = http://localhost:5038
+
+GET {{ExTwo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

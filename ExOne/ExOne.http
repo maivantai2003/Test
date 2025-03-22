@@ -1,0 +1,6 @@
+@ExOne_HostAddress = http://localhost:5044
+
+GET {{ExOne_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
